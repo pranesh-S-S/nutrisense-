@@ -1,0 +1,6 @@
+{
+  "name": "NutriSense",
+  "description": "AI-Powered Personalized Nutrition Intelligence Platform with Knowledge Graphs, Gastronomy Intelligence, and Bioavailability-Based Dietary Guidance",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
